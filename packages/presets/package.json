@@ -1,0 +1,15 @@
+{
+  "name": "@estw/presets",
+  "version": "0.0.1-alpha.1",
+  "description": "es tailwindcss presets",
+  "author": "Eric Sotomayor <elpasocolorartist@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esoto76/estw.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esoto76/estw/issues"
+  },
+  "homepage": "https://github.com/esoto76/estw/tree/main/packages/presets#readme"
+}
